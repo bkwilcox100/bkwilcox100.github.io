@@ -6,16 +6,16 @@ description: null
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bkwilcox100.github.io/" # the base hostname & protocol for your site
 author: 'Brandon Wilcox'
-street_address: 1234 Somewhere Road
+street_address: null
 city: Austin
 state: TX
-zip_code: 78735
-country: United States of America
+zip_code: null
+country: USA
 phone: (214) 504-8774
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings
 500px_url:
@@ -34,3 +34,9 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true

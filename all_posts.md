@@ -7,6 +7,7 @@ description: 'View All Posts'
 image: null
 author: null
 show_tile: true
+permalink: /blog/
 ---
 
 <h1>All posts</h1>
