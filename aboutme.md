@@ -72,6 +72,6 @@ permalink: /about/
 		</div>
 	</section>
 	<ul style="padding: 10px 0px;" class="actions fit">
-		<li><a href="#" class="button special fit">Download Resume (PDF)</a></li>
+		<li><a href="../assets/pdf/resume.pdf" class="button special fit">Download Resume (PDF)</a></li>
 	</ul>
 </section>
