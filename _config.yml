@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Brandon Wilcox
+subtitle: Cloud Technical Resident
+email: bkwilcox23@gmail.com
+description: null
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: 'Brandon Wilcox'
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Austin
+state: TX
+zip_code: 78735
 country: United States of America
-phone: (716) 555-5555
+phone: (214) 504-8774
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url: 
+instagram_url: https://instagram.com/brandonkwilcox
+linkedin_url: https://www.linkedin.com/in/bkwilcox100/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
