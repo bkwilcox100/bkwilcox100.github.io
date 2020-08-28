@@ -38,11 +38,10 @@ permalink: /about/
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Work Experience</h3>
+					<h2>Work Experience</h2>
 				</header>
-				<h5>Cloud Technical Resident @ Google (August 2020 - Current)</h5>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<h4>Previous</h4>
+				<h4>Cloud Technical Resident @ Google (August 2020 - Current)</h4>
+				<h3><b>Previous</b></h3>
 				<h5>Mobile Development Intern @ HEB Grocery (June 2018 - August 2018)</h5>
 				<ul>
 					<li>Assisted the product owner in development of the HEB Curbside app</li>
