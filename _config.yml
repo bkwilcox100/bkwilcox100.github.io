@@ -3,7 +3,7 @@ title: Brandon Wilcox
 subtitle: Cloud Technical Resident
 email: bkwilcox23@gmail.com
 description: null
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bkwilcox100.github.io/" # the base hostname & protocol for your site
 author: 'Brandon Wilcox'
 street_address: null
