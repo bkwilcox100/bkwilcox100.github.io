@@ -8,7 +8,7 @@ permalink: /about/
 <section id="one">
 	<h2>About Me</h2>
   <div class="box">
-    <p>I'm a Google Cloud Technical Resident and Software Engineer with a passion for innovation and machine learning.</p>
+    <p>I am a Software Engineer with a passion for innovation and machine learning.</p>
   </div>
 </section>
 
@@ -40,7 +40,7 @@ permalink: /about/
 				<header class="major">
 					<h2>Work Experience</h2>
 				</header>
-				<h4>Cloud Technical Resident @ Google (August 2020 - Current)</h4>
+				<h4>Technical Account Manager @ Google (August 2020 - Current)</h4>
 				<h3><b>Previous</b></h3>
 				<h5>Mobile Development Intern @ HEB Grocery (June 2018 - August 2018)</h5>
 				<ul>
