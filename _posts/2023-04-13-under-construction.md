@@ -13,7 +13,6 @@ image:
 ---
 
 # Welcome to my Site!
-### Mind our dust
 I am currently in the process of upgrading this website so please ignore it for the time being. I plan to add more details and information soon. Thanks!
 
 Brandon
